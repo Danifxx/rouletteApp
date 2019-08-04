@@ -1,5 +1,3 @@
-# rouletteApp
-
 ![Preview](/public/img/preview.png)
 
 # Roulette CRUD App (w/ Casino Owner Login)
